@@ -1,0 +1,60 @@
+
+{
+    "count": 2,
+    "mean": 42500,
+    "__CLASS__": "SyntheticJobSearchResponse",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "SyntheticJob",
+            "title": "Junior Data Engineer",
+            "created": "2026-11-10T09:30:00Z",
+            "id": "SYNTH-001",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "redirect_url": "https://example.com/jobs/1",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "SYNTH-ADREF-001",
+            "location": {
+                "display_name": "London, UK",
+                "area": ["UK", "London"]
+            },
+            "salary_max": 35000,
+            "description": "Entry-level Data Engineer role involving Python, SQL and ETL pipelines.",
+            "longitude": -0.1276,
+            "company": {
+                "display_name": "Example Analytics Ltd"
+            },
+            "latitude": 51.5072
+        },
+        {
+            "salary_is_predicted": "1",
+            "__CLASS__": "SyntheticJob",
+            "title": "Senior Data Engineer",
+            "created": "2026-11-12T11:00:00Z",
+            "id": "SYNTH-002",
+            "contract_type": "permanent",
+            "salary_min": 55000,
+            "redirect_url": "https://example.com/jobs/2",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "SYNTH-ADREF-002",
+            "location": {
+                "display_name": "Manchester, UK",
+                "area": ["UK", "North West", "Manchester"]
+            },
+            "salary_max": 65000,
+            "description": "Senior Data Engineer role involving AWS, PySpark, Kafka and distributed systems.",
+            "longitude": -2.2426,
+            "company": {
+                "display_name": "Example Technology Ltd"
+            },
+            "latitude": 53.4808
+        }
+    ]
+}
