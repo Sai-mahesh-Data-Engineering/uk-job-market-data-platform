@@ -1,0 +1,23 @@
+
+[
+  {
+    "jobId": 123456,
+    "employerName": "Example Data Ltd",
+    "jobTitle": "Data Engineer",
+    "locationName": "Birmingham",
+    "minimumSalary": 35000,
+    "maximumSalary": 45000,
+    "jobDescription": "A fictional data engineering role.",
+    "jobUrl": "https://www.reed.co.uk/jobs/example"
+  },
+  {
+    "jobId": 123457,
+    "employerName": "Example Analytics Ltd",
+    "jobTitle": "Junior Data Engineer",
+    "locationName": "Manchester",
+    "minimumSalary": 28000,
+    "maximumSalary": 32000,
+    "jobDescription": "A fictional junior role.",
+    "jobUrl": "https://www.reed.co.uk/jobs/example-2"
+  }
+]
