@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UK Job Market Data Engineering Platform
 
 ## Project Overview
@@ -25,3 +26,7 @@ process, store and analyse UK job-market data.
 ## Project Status
 
 Initial project setup.
+=======
+# uk-job-market-data-platform
+End-to-end UK job market data engineering platform using Adzuna and Reed APIs.
+>>>>>>> origin/main
